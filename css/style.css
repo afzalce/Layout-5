@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 150px;
+    background-color: dimgrey;
+}
+section{
+    overflow: hidden;
+}
+.left_content{
+    height: 700px;
+    width: 20%;
+    background-color: lightgray;
+    float: left;
+}
+.right_content{
+    height: 700px;
+    width: 80%;
+    background-color: gray;
+    float: left;
+}
+.top{
+    height: 60%;
+    width: 100%;
+    background-color: khaki;
+}
+.bottom{
+    height: 40%;
+    width: 100%;
+    background-color: cornsilk;
+}
+.left{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color: aquamarine;
+}
+.middle{
+    height: 100%;
+    width: 40%;
+    float: left;
+    background-color: antiquewhite;
+}
+.right{
+    height: 100%;
+    width: 30%;
+    float: left;
+    background-color: aqua;
+}
+footer{
+    height: 100px;
+    background-color: rosybrown;
+}
